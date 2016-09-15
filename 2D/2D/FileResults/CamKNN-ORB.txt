@@ -1,0 +1,7 @@
+Tiempo total de ejecucion: 88.6507 s
+
+---------------
+| ORB + ORB | Rating: 1.36419
+---------------
+| GoodMatches: 24303 | BadMatches: 2043 | Accuracy: 92.25% | Time: 67.6226 s | 
+

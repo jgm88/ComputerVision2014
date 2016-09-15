@@ -1,0 +1,82 @@
+Tiempo total de ejecucion: 322.49 s
+
+---------------
+| SIFT + SIFT | Rating: 3,39473
+---------------
+| GoodMatches: 12903 | BadMatches: 1550 | Accuracy: 89.28% | Time: 26.2996 s | 
+
+---------------
+| SIFT + BRIEF | Rating: 7,36443
+---------------
+| GoodMatches: 4849 | BadMatches: 289 | Accuracy: 94.38% | Time: 12.8157 s | 
+
+---------------
+| SIFT + SURF | Rating: 2,29687
+---------------
+| GoodMatches: 5660 | BadMatches: 7654 | Accuracy: 42.51% | Time: 18.5078 s | 
+
+---------------
+| SURF + SIFT | Rating: 1,38587
+---------------
+| GoodMatches: 26020 | BadMatches: 337 | Accuracy: 98.72% | Time: 71.2334 s | 
+
+---------------
+| SURF + SURF | Rating: 3,00447
+---------------
+| GoodMatches: 29699 | BadMatches: 2571 | Accuracy: 92.03% | Time: 30.631 s | 
+
+---------------
+| SURF + BRIEF | Rating: 6,74107
+---------------
+| GoodMatches: 8194 | BadMatches: 499 | Accuracy: 94.26% | Time: 13.9829 s | 
+
+---------------
+| FAST + SURF | Rating: 5,25021
+---------------
+| GoodMatches: 13080 | BadMatches: 9063 | Accuracy: 59.07% | Time: 11.251 s | 
+
+---------------
+| FAST + SIFT | Rating: 4,66336
+---------------
+| GoodMatches: 45889 | BadMatches: 267 | Accuracy: 99.42% | Time: 21.3194 s | 
+
+---------------
+| FAST + BRIEF | Rating: 28,3019
+---------------
+| GoodMatches: 9380 | BadMatches: 299 | Accuracy: 96.91% | Time: 3.42415 s | 
+
+---------------
+| ORB + SIFT | Rating: 3,19155
+---------------
+| GoodMatches: 13520 | BadMatches: 761 | Accuracy: 94.67% | Time: 29.6627 s | 
+
+---------------
+| ORB + SURF | Rating: 4,4516
+---------------
+| GoodMatches: 18178 | BadMatches: 629 | Accuracy: 96.66% | Time: 21.7136 s | 
+
+---------------
+| ORB + ORB | Rating: 50,5615
+---------------
+| GoodMatches: 929 | BadMatches: 2 | Accuracy: 99.79% | Time: 1.97363 s | 
+
+---------------
+| MSER + SIFT | Rating: 2,90992
+---------------
+| GoodMatches: 5013 | BadMatches: 105 | Accuracy: 97.95% | Time: 33.6607 s | 
+
+---------------
+| MSER + SURF | Rating: 10,6525
+---------------
+| GoodMatches: 4847 | BadMatches: 598 | Accuracy: 89.02% | Time: 8.3567 s | 
+
+---------------
+| MSER + ORB | Rating: 24,9711
+---------------
+| GoodMatches: 637 | BadMatches: 9 | Accuracy: 98.61% | Time: 3.94896 s | 
+
+---------------
+| MSER + BRIEF | Rating: 24,8204
+---------------
+| GoodMatches: 1114 | BadMatches: 18 | Accuracy: 98.41% | Time: 3.96488 s | 
+

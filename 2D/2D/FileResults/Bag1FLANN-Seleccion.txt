@@ -1,0 +1,37 @@
+Tiempo total de ejecucion: 317.63 s
+
+---------------
+| SIFT + BRIEF | Rating: 1.32031
+---------------
+| GoodMatches: 243 | BadMatches: 42 | Accuracy: 85.26% | Time: 64.5758 s | 
+
+---------------
+| SURF + BRIEF | Rating: 0.99498
+---------------
+| GoodMatches: 53 | BadMatches: 22 | Accuracy: 70.67% | Time: 71.0266 s | 
+
+---------------
+| FAST + BRIEF | Rating: 5.64543
+---------------
+| GoodMatches: 249 | BadMatches: 102 | Accuracy: 70.94% | Time: 12.5659 s | 
+
+---------------
+| ORB + ORB | Rating: 9.35237
+---------------
+| GoodMatches: 689 | BadMatches: 39 | Accuracy: 94.64% | Time: 10.1194 s | 
+
+---------------
+| MSER + SURF | Rating: 1.95465
+---------------
+| GoodMatches: 1045 | BadMatches: 205 | Accuracy: 83.6% | Time: 42.7699 s | 
+
+---------------
+| MSER + ORB | Rating: 2.20994
+---------------
+| GoodMatches: 208 | BadMatches: 128 | Accuracy: 61.9% | Time: 28.0098 s | 
+
+---------------
+| MSER + BRIEF | Rating: 1.88302
+---------------
+| GoodMatches: 163 | BadMatches: 148 | Accuracy: 52.41% | Time: 27.833 s | 
+

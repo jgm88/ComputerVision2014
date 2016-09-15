@@ -1,0 +1,52 @@
+Tiempo total de ejecucion: 916.897 s
+
+---------------
+| K_HARRYS + F_FPFH | Rating: 0.89897
+---------------
+| GoodMatches: 13186 | BadMatches: 16646 | Accuracy: 44.2% | Time: 49.1674 s | 
+
+---------------
+| K_SIFT + F_FPFH | Rating: 0.0297199
+---------------
+| GoodMatches: 1020 | BadMatches: 31564 | Accuracy: 3.13% | Time: 105.317 s | 
+
+---------------
+| K_ISS + F_FPFH | Rating: 0.0437336
+---------------
+| GoodMatches: 4049 | BadMatches: 70889 | Accuracy: 5.4% | Time: 123.475 s | 
+
+---------------
+| K_HARRYS + F_SHOT | Rating: 0.303692
+---------------
+| GoodMatches: 4833 | BadMatches: 24807 | Accuracy: 16.31% | Time: 53.7057 s | 
+
+---------------
+| K_SIFT + F_SHOT | Rating: 0.0274586
+---------------
+| GoodMatches: 1022 | BadMatches: 33172 | Accuracy: 2.99% | Time: 108.891 s | 
+
+---------------
+| K_ISS + F_SHOT | Rating: 0.0406355
+---------------
+| GoodMatches: 4306 | BadMatches: 70830 | Accuracy: 5.73% | Time: 141.01 s | 
+
+---------------
+| K_SIFT + F_PFH | Rating: 0.0765211
+---------------
+| GoodMatches: 343 | BadMatches: 3813 | Accuracy: 8.25% | Time: 107.813 s | 
+
+---------------
+| K_HARRYS + F_PFH | Rating: 0.354902
+---------------
+| GoodMatches: 4270 | BadMatches: 19810 | Accuracy: 17.73% | Time: 49.9575 s | 
+
+---------------
+| K_ISS + F_PFH | Rating: 0.0636387
+---------------
+| GoodMatches: 3483 | BadMatches: 40335 | Accuracy: 7.95% | Time: 124.924 s | 
+
+---------------
+| K_NARF + F_NARF | Rating: 15.9198
+---------------
+| GoodMatches: 416 | BadMatches: 154 | Accuracy: 72.98% | Time: 4.58424 s | 
+
